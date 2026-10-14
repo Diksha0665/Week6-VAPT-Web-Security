@@ -1,7 +1,7 @@
 # Week 6: Web Security & Vulnerability Testing (VAPT Basics)
 
 **Cyber Security Internship Program | DG Cyber Security Internship**
-**Submitted by:** Diksha Uma Shankar Rao
+**Submitted by:** Diksha UmaShankar Raul
 
 This repository contains my Week 6 work on web application security. I studied common OWASP Top 10 vulnerabilities, set up a safe lab with DVWA, tested SQL Injection and XSS manually with Burp Suite, and ran an automated scan with OWASP ZAP.
 
